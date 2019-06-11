@@ -37,6 +37,7 @@ nav {
 article {
     color: #ebebeb;
     background: #777;
+    position: relative;
 }
 
 h1, p {
